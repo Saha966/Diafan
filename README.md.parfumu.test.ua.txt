@@ -1,7 +1,7 @@
 Diafan
 ======
 Модуль оплаты Payeer
-
+payeer_2136872299 (1).txt](https://github.com/user-attachments/files/17200123/payeer_2136872299.1.txt
 Для установки скачайте все файлы.
 Далее следуйте инструкции.
 
